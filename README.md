@@ -88,7 +88,7 @@ Manually download the `VGGT` checkpoint file from [here](https://huggingface.co/
 
 **🏋️ Training**
 
-Download our dataset `ViewRecDB-100K` from here and decompress it.
+Download our dataset `ViewRecDB-100K` from [here](https://huggingface.co/datasets/anonymous-12314/ViewRecDB-100K) and decompress it.
 
 We train our model on `2 × NVIDIA RTX 5090 GPUs` using the following command:
 
